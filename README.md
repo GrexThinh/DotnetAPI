@@ -1,3 +1,3 @@
 # DotnetAPI
 
-# run local host: dotnet run
+Run local host: dotnet run
